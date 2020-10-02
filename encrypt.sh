@@ -17,7 +17,7 @@ printf "\e[0m\e[1;93m \____/\_| \_/\____/\_| \_| \_/ \_|     \_/
                                             
 printf "
 "
-printf "  \e[0m\e[1;93mCreated By Tech Abm\e[0m\e[1;96m (\e[0m\e[1;93mAbdul Basit Minhas \e[0m\e[1;96m)"
+printf "  \e[0m\e[1;93mCreated By Paijo!\e[0m\e[1;96m (\e[0m\e[1;93mMamasu \e[0m\e[1;96m)"
 }
 banner
 printf "
